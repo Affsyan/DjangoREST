@@ -1,0 +1,23 @@
+[
+  {
+      "user_name": "ONOTOLE",
+      "first_name": "ОНОТОЛЕ",
+      "last_name": "Васерманэ",
+      "email": "ONOTOLE@Admin.local",
+      "password": "123123123"
+  },
+  {
+      "user_name": "DANILA",
+      "first_name": "Даня",
+      "last_name": "Пупкин",
+      "email": "DANILA1999@Admin.local",
+      "password": "qwe123123"
+  },
+  {
+      "user_name": "VASYA",
+      "first_name": "Василий",
+      "last_name": "Котомски",
+      "email": "VASYAN228@Admin.local",
+      "password": "qwerty"
+  }
+]
