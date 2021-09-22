@@ -1,23 +1,33 @@
 [
   {
-      "user_name": "ONOTOLE",
-      "first_name": "ОНОТОЛЕ",
-      "last_name": "Васерманэ",
+      "username": "ONOTOLE",
+      "first_name": "ONOTOLE",
+      "last_name": "VASERMANE",
       "email": "ONOTOLE@Admin.local",
       "password": "123123123"
   },
   {
-      "user_name": "DANILA",
-      "first_name": "Даня",
-      "last_name": "Пупкин",
+      "username": "DANILA",
+      "first_name": "DANYA",
+      "last_name": "DANILOV",
       "email": "DANILA1999@Admin.local",
-      "password": "qwe123123"
+      "password": "111"
   },
   {
-      "user_name": "VASYA",
-      "first_name": "Василий",
-      "last_name": "Котомски",
+      "username": "VASYA",
+      "first_name": "VASILII",
+      "last_name": "PUPKIN",
       "email": "VASYAN228@Admin.local",
       "password": "qwerty"
+  },
+  {
+      "username": "admin",
+      "first_name": "admin",
+      "last_name": "admin",
+      "email": "admin@admin.local",
+      "password": "111",
+      "is_superuser" : "True",
+      "is_active" : "True",
+      "is_staff" : "True"
   }
 ]
